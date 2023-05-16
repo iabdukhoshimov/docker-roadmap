@@ -36,7 +36,7 @@ Reference: [https://github.com/kamranahmedse/developer-roadmap/tree/master/src/d
 
 Reference: [https://github.com/kamranahmedse/developer-roadmap/tree/master/src/data/roadmaps/docker/content/109-container-security]
 
-## Docker CLI 
+## Docker CLI
 
 Reference:[https://github.com/kamranahmedse/developer-roadmap/tree/master/src/data/roadmaps/docker/content/110-docker-cli]
 
